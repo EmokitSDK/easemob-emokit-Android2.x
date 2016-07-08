@@ -1,0 +1,23 @@
+# view res/layout/lm_bank_city_list_dialog.xml #generated:34
+# view res/layout/lm_fragment_group_money_detail.xml #generated:10
+# view res/layout/lm_record_fragment.xml #generated:8
+-keep class com.easemob.luckymoneyui.android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/lm_fragment_set_pay_password.xml #generated:15
+# view res/layout/lm_pay_has_pwd_dialog.xml #generated:108
+# view res/layout/lm_pay_sms_dialog.xml #generated:52
+-keep class com.easemob.luckymoneyui.gridpasswordview.GridPasswordView { <init>(...); }
+
+# view res/layout/lm_gridpasswordview.xml #generated:4
+-keep class com.easemob.luckymoneyui.gridpasswordview.imebugfixer.ImeDelBugFixedEditText { <init>(...); }
+
+# view res/layout/lm_activity_bind_bankcard.xml #generated:9
+# view res/layout/lm_activity_change.xml #generated:8
+# view res/layout/lm_activity_lucky_money.xml #generated:9
+# view res/layout/lm_activity_lucky_money_detail.xml #generated:10
+# view res/layout/lm_activity_record.xml #generated:9
+# view res/layout/lm_activity_webview.xml #generated:10
+# view res/layout/lm_bank_city_list_dialog.xml #generated:8
+# view res/layout/lm_fragment_lucky_money_detail.xml #generated:10
+-keep class com.easemob.luckymoneyui.widget.LMTitleBar { <init>(...); }
+
