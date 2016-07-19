@@ -18,7 +18,7 @@
 # 2.	预备工作
 第一步:使用Android Studio打开，导入 EaseUI 
 
-第二步: 添加ADI和KEY
+第二步: 添加AID和KEY  
 初始化时候需要配置从EmoKit 开发者中心http://dev.emokit.com  申请的AID和 KEY。在AndroidManifest.xml中配置如下:
 
 meta-data   
@@ -30,7 +30,7 @@ meta-data 
     android:value="98cd22f6f90141f8f1876dd2f5a27ea5"             
    
 
-第三步:根据返回的情绪结果自定义功能
+第三步:根据返回的情绪结果自定义功能  
 
 在com.easemob.easeui.widget.chatrow.EaseChatRowVoice类onSetUpView()中自定义功能
 可修改layout ease_row_sent_voice.xml, ease_row_received_voice.xml
