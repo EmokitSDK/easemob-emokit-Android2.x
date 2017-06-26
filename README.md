@@ -16,16 +16,19 @@
 一定能够实现更多更好玩的功能，满足更多更刺激的场景。永久免费哦！
 
 # 2.	预备工作
-第一步:使用Android Studio打开，导入 EaseUI 
+第一步:使用Android Studio打开，导入 EaseUI
+
 
 第二步: 添加AID和KEY  
+
 初始化时候需要配置从EmoKit 开发者中心http://dev.emokit.com  申请的AID和 KEY。在AndroidManifest.xml中配置如下:
 
 meta-data   
     android:name="EMOKIT_AID"   
     android:value="100001" 
   
-meta-data   
+meta-data
+  
     android:name="EMOKIT_KEY"        
     android:value="98cd22f6f90141f8f1876dd2f5a27ea5"             
    
